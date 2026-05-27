@@ -2,8 +2,12 @@
 # Power BI Sales Analytics Project
 
 ## Overview
+<img width="221" height="308" alt="image" src="https://github.com/user-attachments/assets/e58a18eb-37e9-4f4b-b5dd-a9dc7de77cc4" />
 
 This project focuses on building an end-to-end Power BI solution using Power Query, Data Modeling, and DAX. The project includes data cleaning, relationship building, calculated columns, measures, and time intelligence analysis for Sales and Returns data.
+
+<img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/e42db43a-34cc-4f62-bef0-3f2dfc34c30e" />
+
 
 ## Features
 
@@ -14,6 +18,7 @@ This project focuses on building an end-to-end Power BI solution using Power Que
 * Time intelligence calculations
 * Matrix-based sales analysis
 * KPI calculations for sales, profit, and returns
+<img width="1901" height="992" alt="image" src="https://github.com/user-attachments/assets/9ec4b8d5-449a-4096-b9df-80a7c16cd075" />
 
 ## DAX Implemented
 
@@ -32,6 +37,7 @@ This project focuses on building an end-to-end Power BI solution using Power Que
 * Customer Segment analysis
 * Monthly & Yearly trends
 * Returns analysis
+<img width="1915" height="1065" alt="image" src="https://github.com/user-attachments/assets/d7416691-ae12-487a-a62f-364b4096824b" />
 
 ## Tools Used
 
